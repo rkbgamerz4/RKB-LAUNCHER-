@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_or_white">#FFFFFF</color>
+    <color name="background_app">#08111F</color>
+    <color name="background_app_error">#1A0808</color>
+    <color name="background_overlay">#0D1929</color>
+    <color name="background_status_bar">#08111F</color>
+    <color name="background_menu_top">#08111F</color>
+    <color name="background_menu_top_error">#1A0808</color>
+    <color name="background_menu_element">#00AFFF</color>
+    <color name="background_ripple_effect">#1A00AFFF</color>
+    <color name="button_background">#101826</color>
+    <color name="button_background_selected">#0D1929</color>
+    <color name="dialog_background">#101826</color>
+    <color name="menu_bar">#101826</color>
+    <color name="menu_bar_text">#FFFFFF</color>
+    <color name="menu_overlay">#CC08111F</color>
+    <color name="menu_progress">#00AFFF</color>
+    <color name="background_item">#0D1929</color>
+    <color name="background_item_selected">#1A00AFFF</color>
+    <color name="background_item_disabled">#1A0808</color>
+    <color name="edit_box_fill">#101826</color>
+    <color name="edit_box_fill_selected">#0D1929</color>
+    <color name="mod_category_fill">#1A00AFFF</color>
+    <color name="text_background_fill">#1A101826</color>
+    <color name="settings_category">#00AFFF</color>
+    <color name="favorite_color">#00FF88</color>
+    <color name="icon_color">#00AFFF</color>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="rkb_accent">#00AFFF</color>
+    <color name="rkb_success">#00FF88</color>
+    <color name="rkb_bg">#08111F</color>
+    <color name="rkb_card">#0D1929</color>
+    <color name="rkb_text_dim">#99FFFFFF</color>
+</resources>
